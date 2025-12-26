@@ -224,10 +224,4 @@ MIT License
 
 ---
 
-**💡 提示**: 如果这个项目对你有帮助，请给它一个 ⭐ Star！</content>
-</xai:function_call"> 
-
-Assistant: 现在我需要更新脚本文件头部的注释，让它更适合GitHub发布。让我修改一下脚本开头的注释，使其更简洁专业。 
-
-<xai:function_call name="search_replace">
-<parameter name="file_path">node/galaxykeep/cf-worker-github-trigger.js
+**💡 提示**: 如果这个项目对你有帮助，请给它一个 ⭐ Star！
